@@ -33,7 +33,7 @@ import Capacitor
 
         let utterance = AVSpeechUtterance(string: text)
         utterance.voice = AVSpeechSynthesisVoice(language: lang)
-        utterance.rate = adjustRate(rate)
+        utterance.rate = rate //adjustRate(rate)
         utterance.pitchMultiplier = pitch
         utterance.volume = volume
 
