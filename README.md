@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/maintenance/yes/2023?style=flat-square" />
+  <img src="https://img.shields.io/maintenance/yes/2024?style=flat-square" />
   <a href="https://github.com/capacitor-community/text-to-speech/actions?query=workflow%3A%22CI%22"><img src="https://img.shields.io/github/actions/workflow/status/capacitor-community/text-to-speech/ci.yml?branch=master&style=flat-square" /></a>
   <a href="https://www.npmjs.com/package/@capacitor-community/text-to-speech"><img src="https://img.shields.io/npm/l/@capacitor-community/text-to-speech?style=flat-square" /></a>
 <br>
@@ -29,8 +29,6 @@
 npm install @capacitor-community/text-to-speech
 npx cap sync
 ```
-
-[Here](https://github.com/robingenz/capacitor-plugin-demo/commit/b7dc6c6d6652be9356d354df1faeb6a40e442797) you can find an example commit.
 
 ## Configuration
 
