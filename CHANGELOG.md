@@ -2,31 +2,6 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [4.0.2](https://github.com/capacitor-community/text-to-speech/compare/v4.0.1...v4.0.2) (2024-06-22)
-
-
-### Bug Fixes
-
-* **android:** `getSupportedVoices()` is not available for api levels < 24 ([#124](https://github.com/capacitor-community/text-to-speech/issues/124)) ([0ccace8](https://github.com/capacitor-community/text-to-speech/commit/0ccace825ce67ec75495b202a9fc505bc0c64ce4))
-* **android:** add queries in the AndroidManifest.xml ([#121](https://github.com/capacitor-community/text-to-speech/issues/121)) ([8c3594b](https://github.com/capacitor-community/text-to-speech/commit/8c3594b1df4b6185a472ef2e9e59a1ba3a21a981))
-
-### [4.0.1](https://github.com/capacitor-community/text-to-speech/compare/v4.0.0...v4.0.1) (2024-04-29)
-
-### Bug Fixes
-
-* **android:** comparison method violates its general contract ([ada706e](https://github.com/capacitor-community/text-to-speech/commit/ada706ed26ea99e8d3a6bc66d509b0528a6203c3))
-
-## [4.0.0](https://github.com/capacitor-community/text-to-speech/compare/v3.0.1...v4.0.0) (2024-04-16)
-
-
-### ⚠ BREAKING CHANGES
-
-* This plugin now only supports Capacitor 6.
-
-### Features
-
-* update to Capacitor 6 ([#113](https://github.com/capacitor-community/text-to-speech/issues/113)) ([b4c1942](https://github.com/capacitor-community/text-to-speech/commit/b4c1942e7de661d6e79cf6e5f74fbaddb0c94119))
-
 ### [3.0.1](https://github.com/capacitor-community/text-to-speech/compare/v3.0.0...v3.0.1) (2023-08-02)
 
 
@@ -35,7 +10,6 @@ All notable changes to this project will be documented in this file. See [standa
 * **android:** `java.lang.NoClassDefFoundError` error ([#109](https://github.com/capacitor-community/text-to-speech/issues/109)) ([a3d2add](https://github.com/capacitor-community/text-to-speech/commit/a3d2add74e233fbfb09aaeb11e65a2c0e830630e))
 
 ## [3.0.0](https://github.com/capacitor-community/text-to-speech/compare/v2.1.0...v3.0.0) (2023-05-04)
-
 
 ### ⚠ BREAKING CHANGES
 
